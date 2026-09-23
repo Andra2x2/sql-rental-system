@@ -71,7 +71,3 @@ python -m unittest -v
 ```
 
 This is a database exercise, not a production rental service. It does not include login, payment records, multi-vehicle contracts, or a web interface.
-
-## Development
-
-This is a small learning project generated with AI assistance. Run it, read the code, and adapt it before presenting it as part of your portfolio. Sample names and records are fictional. See `ROADMAP.md` for specific next improvements.
